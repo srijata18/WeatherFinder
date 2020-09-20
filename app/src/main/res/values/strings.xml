@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="menu_logout">Logout</string>
+    <string name="user_name">User Name</string>
+    <string name="user_email">User Email</string>
+    <string name="helpline">All our agents are busy now. Kindly contact helpline +112233</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="nodata">Sorry ! No Data Found...</string>
+    <string name="nointernet">No internet connection available</string>
+    <string name="enter_location">Enter location</string>
+    <string name="loading_msg">Loading Weather . . . Please wait . . .</string>
+    <string name="weather_det">Weather for</string>
+    <string name="temp_degree">&#xb0;</string>
+    <string name="text_wind">Wind</string>
+    <string name="wind_unit">mph</string>
+    <string name="text_feels_like">Feels like</string>
+    <string name="not_a_valid_input">Please enter location</string>
+</resources>
